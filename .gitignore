@@ -1,0 +1,5 @@
+# Ignorar ficheiros sensíveis e dependências
+.env
+node_modules/
+proxies.txt
+app.log
